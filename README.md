@@ -7,7 +7,9 @@ This repository provides a shell script file, `setup.sh`, that can be executed t
 ```
 git clone
 
-# change user' name and email
+# change user's name and email
 
 bash setup.sh
 ```
+
+Register your SSH key at https://github.com/settings/ssh.
